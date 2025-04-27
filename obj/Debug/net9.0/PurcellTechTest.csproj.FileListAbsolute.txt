@@ -1,0 +1,14 @@
+/Users/brianquilty/PurcellTechTest/bin/Debug/net9.0/PurcellTechTest
+/Users/brianquilty/PurcellTechTest/bin/Debug/net9.0/PurcellTechTest.deps.json
+/Users/brianquilty/PurcellTechTest/bin/Debug/net9.0/PurcellTechTest.runtimeconfig.json
+/Users/brianquilty/PurcellTechTest/bin/Debug/net9.0/PurcellTechTest.dll
+/Users/brianquilty/PurcellTechTest/bin/Debug/net9.0/PurcellTechTest.pdb
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.AssemblyInfoInputs.cache
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.AssemblyInfo.cs
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.csproj.CoreCompileInputs.cache
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.dll
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/refint/PurcellTechTest.dll
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.pdb
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/PurcellTechTest.genruntimeconfig.cache
+/Users/brianquilty/PurcellTechTest/obj/Debug/net9.0/ref/PurcellTechTest.dll
